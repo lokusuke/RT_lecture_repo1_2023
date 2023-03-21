@@ -1,15 +1,17 @@
-# README
+## 第3、4回の課題をこちらに保存
+
+### README
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version　3.1.2
 
 * System dependencies
 
-* Configuration
+* Configuration 
 
 * Database creation
 
